@@ -1,6 +1,6 @@
 [
-  { "id": 1, "title": "Notebook", "price": 2000, "img": "img/notebook.png" },
-  { "id": 2, "title": "Mouse", "price": 20, "img": "img/mouse.png" },
-  { "id": 3, "title": "Keyboard", "price": 200, "img": "img/keyboard.png" },
-  { "id": 4, "title": "Gamepad", "price": 50, "img": "img/gamepad.png" }
+  { "id": 1, "title": "Notebook", "price": 2000, "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/notebook.png" },
+  { "id": 2, "title": "Mouse", "price": 20, "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/mouse.png" },
+  { "id": 3, "title": "Keyboard", "price": 200, "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/keyboard.png" },
+  { "id": 4, "title": "Gamepad", "price": 50, "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/gamepad.png" }
 ]
